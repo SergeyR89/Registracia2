@@ -1,0 +1,149 @@
+1643143573071	geckodriver	INFO	Listening on 127.0.0.1:51839
+1643143573102	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51840" "-no-remote" "-profile" "C:\\Users\\Serg\\AppData\\Local\\Temp\\rust_mozprofileRrzx7S"
+1643143575542	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Serg\\AppData\\Local\\Temp\\rust_mozprofileRrzx7S\\search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  maybeScheduleBackgroundUpdateTask: exiting after uncaught exception in maybeScheduleBackgroundUpdateTask!
+  Message: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWinTaskSchedulerService.deleteTask]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/TaskSchedulerWinImpl.jsm :: deleteTask :: line 60"  data: no]
+  Stack:
+    deleteTask@resource://gre/modules/TaskSchedulerWinImpl.jsm:60:16
+deleteTask@resource://gre/modules/TaskScheduler.jsm:145:18
+maybeScheduleBackgroundUpdateTask@resource://gre/modules/BackgroundUpdate.jsm:471:31
+
+DevTools listening on ws://localhost:51840/devtools/browser/3eb72e3b-a641-4347-8342-a94dd267c0bc
+1643143578473	Marionette	INFO	Listening on port 51844
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+1643143578651	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://code-ya.jivosite.com/widget/jh19zrBJOv, line 1: Error: Placing widget is forbidden on trafbig.net
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.gstatic.com/recaptcha/releases/TDBxTlSsKAUm3tSIa0fwIqNu/recaptcha__ru.js, line 9: Error: reCAPTCHA placeholder element must be an element or id
+JavaScript error: https://www.gstatic.com/recaptcha/releases/TDBxTlSsKAUm3tSIa0fwIqNu/recaptcha__ru.js, line 9: Error: reCAPTCHA placeholder element must be an element or id
+JavaScript error: https://code-ya.jivosite.com/widget/jh19zrBJOv, line 1: Error: Placing widget is forbidden on trafbig.net
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://www.gstatic.com/recaptcha/releases/TDBxTlSsKAUm3tSIa0fwIqNu/styles__ltr.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://www.gstatic.com/recaptcha/releases/TDBxTlSsKAUm3tSIa0fwIqNu/styles__ltr.css without a browsingContextID set
+console.warn: "Already stopped listening to websocket events for this window."
+console.warn: "Already stopped listening to server sent events for this window."
+console.warn: "Already stopped listening to websocket events for this window."
+console.warn: "Already stopped listening to server sent events for this window."
+console.warn: "Already stopped listening to websocket events for this window."
+console.warn: "Already stopped listening to server sent events for this window."
+console.warn: "Already stopped listening to websocket events for this window."
+console.warn: "Already stopped listening to server sent events for this window."
+console.warn: "Already stopped listening to server sent events for this window."
+console.warn: "Already stopped listening to server sent events for this window."
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://trafbig.net"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://trafbig.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://code-ya.jivosite.com/widget/jh19zrBJOv, line 1: Error: Placing widget is forbidden on trafbig.net
+JavaScript error: https://code-ya.jivosite.com/widget/jh19zrBJOv, line 1: Error: Placing widget is forbidden on trafbig.net
+JavaScript error: https://code-ya.jivosite.com/widget/jh19zrBJOv, line 1: Error: Placing widget is forbidden on trafbig.net
+JavaScript error: https://code-ya.jivosite.com/widget/jh19zrBJOv, line 1: Error: Placing widget is forbidden on trafbig.net
+JavaScript error: https://code-ya.jivosite.com/widget/jh19zrBJOv, line 1: Error: Placing widget is forbidden on trafbig.net
+JavaScript error: https://code-ya.jivosite.com/widget/jh19zrBJOv, line 1: Error: Placing widget is forbidden on trafbig.net
+JavaScript error: https://code-ya.jivosite.com/widget/jh19zrBJOv, line 1: Error: Placing widget is forbidden on trafbig.net
+JavaScript error: https://code-ya.jivosite.com/widget/jh19zrBJOv, line 1: Error: Placing widget is forbidden on trafbig.net
+JavaScript error: https://www.gstatic.com/recaptcha/releases/TDBxTlSsKAUm3tSIa0fwIqNu/recaptcha__ru.js, line 9: Error: reCAPTCHA placeholder element must be an element or id
+JavaScript error: https://code-ya.jivosite.com/widget/jh19zrBJOv, line 1: Error: Placing widget is forbidden on trafbig.net
+1643143881612	Marionette	INFO	Stopped listening on port 51844
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643176359327	geckodriver	INFO	Listening on 127.0.0.1:58681
+1643176359405	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58682" "-no-remote" "-profile" "C:\\Users\\Serg\\AppData\\Local\\Temp\\rust_mozprofilemHGBrY"
+1643176362507	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Serg\\AppData\\Local\\Temp\\rust_mozprofilemHGBrY\\search.json.mozlz4", (void 0)))
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+console.error: BackgroundUpdate: 
+  maybeScheduleBackgroundUpdateTask: exiting after uncaught exception in maybeScheduleBackgroundUpdateTask!
+  Message: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWinTaskSchedulerService.deleteTask]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/TaskSchedulerWinImpl.jsm :: deleteTask :: line 60"  data: no]
+  Stack:
+    deleteTask@resource://gre/modules/TaskSchedulerWinImpl.jsm:60:16
+deleteTask@resource://gre/modules/TaskScheduler.jsm:145:18
+maybeScheduleBackgroundUpdateTask@resource://gre/modules/BackgroundUpdate.jsm:471:31
+
+DevTools listening on ws://localhost:58682/devtools/browser/be037ab6-d293-44ac-bb98-539749b598bd
+1643176370603	Marionette	INFO	Listening on port 58686
+1643176371175	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643176403484	Marionette	INFO	Stopped listening on port 58686
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1643176426290	geckodriver	INFO	Listening on 127.0.0.1:61883
+1643176426305	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61884" "-no-remote" "-profile" "C:\\Users\\Serg\\AppData\\Local\\Temp\\rust_mozprofiletK95v4"
+1643176427135	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Serg\\AppData\\Local\\Temp\\rust_mozprofiletK95v4\\search.json.mozlz4", (void 0)))
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+console.error: BackgroundUpdate: 
+  maybeScheduleBackgroundUpdateTask: exiting after uncaught exception in maybeScheduleBackgroundUpdateTask!
+  Message: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWinTaskSchedulerService.deleteTask]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/TaskSchedulerWinImpl.jsm :: deleteTask :: line 60"  data: no]
+  Stack:
+    deleteTask@resource://gre/modules/TaskSchedulerWinImpl.jsm:60:16
+deleteTask@resource://gre/modules/TaskScheduler.jsm:145:18
+maybeScheduleBackgroundUpdateTask@resource://gre/modules/BackgroundUpdate.jsm:471:31
+
+DevTools listening on ws://localhost:61884/devtools/browser/dc8171a6-daf5-44df-8223-48c7296beda6
+1643176430709	Marionette	INFO	Listening on port 61887
+1643176430830	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643176468329	Marionette	INFO	Stopped listening on port 61887
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1643176479272	geckodriver	INFO	Listening on 127.0.0.1:61932
+1643176479803	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61933" "-no-remote" "-profile" "C:\\Users\\Serg\\AppData\\Local\\Temp\\rust_mozprofilebAopr7"
+1643176480402	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Serg\\AppData\\Local\\Temp\\rust_mozprofilebAopr7\\search.json.mozlz4", (void 0)))
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+console.error: BackgroundUpdate: 
+  maybeScheduleBackgroundUpdateTask: exiting after uncaught exception in maybeScheduleBackgroundUpdateTask!
+  Message: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWinTaskSchedulerService.deleteTask]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/TaskSchedulerWinImpl.jsm :: deleteTask :: line 60"  data: no]
+  Stack:
+    deleteTask@resource://gre/modules/TaskSchedulerWinImpl.jsm:60:16
+deleteTask@resource://gre/modules/TaskScheduler.jsm:145:18
+maybeScheduleBackgroundUpdateTask@resource://gre/modules/BackgroundUpdate.jsm:471:31
+
+DevTools listening on ws://localhost:61933/devtools/browser/95dcd9e9-3875-40a2-997d-49969a905097
+1643176483681	Marionette	INFO	Listening on port 61936
+1643176483724	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://bot.sannysoft.com/, line 161: TypeError: Navigator.sendBeacon: At least 1 argument required, but only 0 passed
+JavaScript error: https://bot.sannysoft.com/, line 209: TypeError: navigator.getUserMedia is not a function
+JavaScript warning: https://bot.sannysoft.com/fpCollect.min.js, line 122: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bot.sannysoft.com/, line 618: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://bot.sannysoft.com/, line 312: TypeError: navigator.getBattery is not a function
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1643176491927	Marionette	INFO	Stopped listening on port 61936
+1643177473150	geckodriver	INFO	Listening on 127.0.0.1:54490
+1643177473680	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54491" "-no-remote" "-profile" "C:\\Users\\Serg\\AppData\\Local\\Temp\\rust_mozprofilemWTerH"
+1643177475953	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Serg\\AppData\\Local\\Temp\\rust_mozprofilemWTerH\\search.json.mozlz4", (void 0)))
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+console.error: BackgroundUpdate: 
+  maybeScheduleBackgroundUpdateTask: exiting after uncaught exception in maybeScheduleBackgroundUpdateTask!
+  Message: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWinTaskSchedulerService.deleteTask]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/TaskSchedulerWinImpl.jsm :: deleteTask :: line 60"  data: no]
+  Stack:
+    deleteTask@resource://gre/modules/TaskSchedulerWinImpl.jsm:60:16
+deleteTask@resource://gre/modules/TaskScheduler.jsm:145:18
+maybeScheduleBackgroundUpdateTask@resource://gre/modules/BackgroundUpdate.jsm:471:31
+
+DevTools listening on ws://localhost:54491/devtools/browser/05463149-9bdf-49f8-8948-d9c715994115
+1643177479344	Marionette	INFO	Listening on port 54494
+1643177479860	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://code-ya.jivosite.com/widget/jh19zrBJOv, line 1: Error: Placing widget is forbidden on trafbig.net
+JavaScript error: https://www.gstatic.com/recaptcha/releases/TDBxTlSsKAUm3tSIa0fwIqNu/recaptcha__ru.js, line 9: Error: reCAPTCHA placeholder element must be an element or id
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.gstatic.com/recaptcha/releases/TDBxTlSsKAUm3tSIa0fwIqNu/recaptcha__ru.js, line 9: Error: reCAPTCHA placeholder element must be an element or id
+JavaScript error: https://code-ya.jivosite.com/widget/jh19zrBJOv, line 1: Error: Placing widget is forbidden on trafbig.net
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://trafbig.net"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://trafbig.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://code-ya.jivosite.com/widget/jh19zrBJOv, line 1: Error: Placing widget is forbidden on trafbig.net
+JavaScript error: https://code-ya.jivosite.com/widget/jh19zrBJOv, line 1: Error: Placing widget is forbidden on trafbig.net
+JavaScript error: https://code-ya.jivosite.com/widget/jh19zrBJOv, line 1: Error: Placing widget is forbidden on trafbig.net
+JavaScript error: https://code-ya.jivosite.com/widget/jh19zrBJOv, line 1: Error: Placing widget is forbidden on trafbig.net
+JavaScript error: https://code-ya.jivosite.com/widget/jh19zrBJOv, line 1: Error: Placing widget is forbidden on trafbig.net
+JavaScript error: https://code-ya.jivosite.com/widget/jh19zrBJOv, line 1: Error: Placing widget is forbidden on trafbig.net
+JavaScript error: https://code-ya.jivosite.com/widget/jh19zrBJOv, line 1: Error: Placing widget is forbidden on trafbig.net
+JavaScript error: https://www.gstatic.com/recaptcha/releases/TDBxTlSsKAUm3tSIa0fwIqNu/recaptcha__ru.js, line 9: Error: reCAPTCHA placeholder element must be an element or id
+JavaScript error: https://code-ya.jivosite.com/widget/jh19zrBJOv, line 1: Error: Placing widget is forbidden on trafbig.net
+1643177691578	Marionette	INFO	Stopped listening on port 54494
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
