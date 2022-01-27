@@ -147,3 +147,94 @@ JavaScript error: https://www.gstatic.com/recaptcha/releases/TDBxTlSsKAUm3tSIa0f
 JavaScript error: https://code-ya.jivosite.com/widget/jh19zrBJOv, line 1: Error: Placing widget is forbidden on trafbig.net
 1643177691578	Marionette	INFO	Stopped listening on port 54494
 console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1643228535246	geckodriver	INFO	Listening on 127.0.0.1:51719
+1643228541446	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51720" "-no-remote" "-profile" "C:\\Users\\Serg\\AppData\\Local\\Temp\\rust_mozprofile7z9QE8"
+1643228546555	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Serg\\AppData\\Local\\Temp\\rust_mozprofile7z9QE8\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+DevTools listening on ws://localhost:51720/devtools/browser/8c146b1d-a1a1-4edb-b134-bbfda2b1948f
+1643228559440	Marionette	INFO	Listening on port 51723
+console.error: BackgroundUpdate: 
+  maybeScheduleBackgroundUpdateTask: exiting after uncaught exception in maybeScheduleBackgroundUpdateTask!
+  Message: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWinTaskSchedulerService.deleteTask]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/TaskSchedulerWinImpl.jsm :: deleteTask :: line 60"  data: no]
+  Stack:
+    deleteTask@resource://gre/modules/TaskSchedulerWinImpl.jsm:60:16
+deleteTask@resource://gre/modules/TaskScheduler.jsm:145:18
+maybeScheduleBackgroundUpdateTask@resource://gre/modules/BackgroundUpdate.jsm:471:31
+
+1643228560167	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 11: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.gstatic.com/recaptcha/releases/TDBxTlSsKAUm3tSIa0fwIqNu/recaptcha__ru.js, line 9: Error: reCAPTCHA placeholder element must be an element or id
+JavaScript error: https://code-ya.jivosite.com/widget/jh19zrBJOv, line 1: Error: Placing widget is forbidden on trafbig.net
+JavaScript error: https://www.gstatic.com/recaptcha/releases/TDBxTlSsKAUm3tSIa0fwIqNu/recaptcha__ru.js, line 9: Error: reCAPTCHA placeholder element must be an element or id
+JavaScript error: https://code-ya.jivosite.com/widget/jh19zrBJOv, line 1: Error: Placing widget is forbidden on trafbig.net
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://trafbig.net"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://trafbig.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://code-ya.jivosite.com/widget/jh19zrBJOv, line 1: Error: Placing widget is forbidden on trafbig.net
+JavaScript error: https://code-ya.jivosite.com/widget/jh19zrBJOv, line 1: Error: Placing widget is forbidden on trafbig.net
+JavaScript error: https://code-ya.jivosite.com/widget/jh19zrBJOv, line 1: Error: Placing widget is forbidden on trafbig.net
+JavaScript error: https://code-ya.jivosite.com/widget/jh19zrBJOv, line 1: Error: Placing widget is forbidden on trafbig.net
+JavaScript error: https://code-ya.jivosite.com/widget/jh19zrBJOv, line 1: Error: Placing widget is forbidden on trafbig.net
+1643264813237	geckodriver	INFO	Listening on 127.0.0.1:53421
+1643264813891	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53422" "-no-remote" "-profile" "C:\\Users\\Serg\\AppData\\Local\\Temp\\rust_mozprofile12sxyn"
+1643264814437	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Serg\\AppData\\Local\\Temp\\rust_mozprofile12sxyn\\search.json.mozlz4", (void 0)))
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+console.error: BackgroundUpdate: 
+  maybeScheduleBackgroundUpdateTask: exiting after uncaught exception in maybeScheduleBackgroundUpdateTask!
+  Message: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWinTaskSchedulerService.deleteTask]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/TaskSchedulerWinImpl.jsm :: deleteTask :: line 60"  data: no]
+  Stack:
+    deleteTask@resource://gre/modules/TaskSchedulerWinImpl.jsm:60:16
+deleteTask@resource://gre/modules/TaskScheduler.jsm:145:18
+maybeScheduleBackgroundUpdateTask@resource://gre/modules/BackgroundUpdate.jsm:471:31
+
+DevTools listening on ws://localhost:53422/devtools/browser/cdfebe0d-62a2-41aa-9172-74fbcec2eef2
+1643264819064	Marionette	INFO	Listening on port 53425
+1643264819577	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://code-ya.jivosite.com/widget/jh19zrBJOv, line 1: Error: Placing widget is forbidden on trafbig.net
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 11: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.gstatic.com/recaptcha/releases/TDBxTlSsKAUm3tSIa0fwIqNu/recaptcha__ru.js, line 9: Error: reCAPTCHA placeholder element must be an element or id
+1643264952017	geckodriver	INFO	Listening on 127.0.0.1:53541
+1643264952532	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53542" "-no-remote" "-profile" "C:\\Users\\Serg\\AppData\\Local\\Temp\\rust_mozprofileKSILSE"
+1643264954769	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Serg\\AppData\\Local\\Temp\\rust_mozprofileKSILSE\\search.json.mozlz4", (void 0)))
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+DevTools listening on ws://localhost:53542/devtools/browser/a20efb58-0c2d-4ce1-9420-01087182362b
+1643264958250	Marionette	INFO	Listening on port 53545
+1643264958690	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: BackgroundUpdate: 
+  maybeScheduleBackgroundUpdateTask: exiting after uncaught exception in maybeScheduleBackgroundUpdateTask!
+  Message: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWinTaskSchedulerService.deleteTask]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/TaskSchedulerWinImpl.jsm :: deleteTask :: line 60"  data: no]
+  Stack:
+    deleteTask@resource://gre/modules/TaskSchedulerWinImpl.jsm:60:16
+deleteTask@resource://gre/modules/TaskScheduler.jsm:145:18
+maybeScheduleBackgroundUpdateTask@resource://gre/modules/BackgroundUpdate.jsm:471:31
+
+JavaScript error: https://code-ya.jivosite.com/widget/jh19zrBJOv, line 1: Error: Placing widget is forbidden on trafbig.net
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 11: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.gstatic.com/recaptcha/releases/TDBxTlSsKAUm3tSIa0fwIqNu/recaptcha__ru.js, line 9: Error: reCAPTCHA placeholder element must be an element or id
+JavaScript error: https://www.gstatic.com/recaptcha/releases/TDBxTlSsKAUm3tSIa0fwIqNu/recaptcha__ru.js, line 9: Error: reCAPTCHA placeholder element must be an element or id
+JavaScript error: https://code-ya.jivosite.com/widget/jh19zrBJOv, line 1: Error: Placing widget is forbidden on trafbig.net
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://trafbig.net"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://trafbig.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://code-ya.jivosite.com/widget/jh19zrBJOv, line 1: Error: Placing widget is forbidden on trafbig.net
+JavaScript error: https://code-ya.jivosite.com/widget/jh19zrBJOv, line 1: Error: Placing widget is forbidden on trafbig.net
+JavaScript error: https://code-ya.jivosite.com/widget/jh19zrBJOv, line 1: Error: Placing widget is forbidden on trafbig.net
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 11: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://code-ya.jivosite.com/widget/jh19zrBJOv, line 1: Error: Placing widget is forbidden on trafbig.net
+JavaScript error: https://code-ya.jivosite.com/widget/jh19zrBJOv, line 1: Error: Placing widget is forbidden on trafbig.net
+JavaScript error: resource://gre/actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: https://code-ya.jivosite.com/widget/jh19zrBJOv, line 1: Error: Placing widget is forbidden on trafbig.net
+JavaScript error: https://code-ya.jivosite.com/widget/jh19zrBJOv, line 1: Error: Placing widget is forbidden on trafbig.net
+JavaScript error: https://www.gstatic.com/recaptcha/releases/TDBxTlSsKAUm3tSIa0fwIqNu/recaptcha__ru.js, line 9: Error: reCAPTCHA placeholder element must be an element or id
+JavaScript error: https://code-ya.jivosite.com/widget/jh19zrBJOv, line 1: Error: Placing widget is forbidden on trafbig.net
+1643265158867	Marionette	INFO	Stopped listening on port 53545
